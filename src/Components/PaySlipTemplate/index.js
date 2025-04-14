@@ -114,7 +114,7 @@ const PaySlipTemplate = () => {
               <td>Basic Salary</td>
               <td>{`${basicSalary}.00`}</td>
               <td>Provident Fund</td>
-              <td>{`${Math.floor((basicSalary * 12) / 100, 0)}.00`}</td>
+              <td>{`${Math.floor((basicSalary * 9) / 100, 0)}.00`}</td>
             </tr>
             <tr>
               <td>HRA</td>
