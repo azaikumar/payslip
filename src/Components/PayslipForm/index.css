@@ -1,0 +1,45 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.label-container {
+  padding: 10px;
+}
+
+.label {
+  margin-right: 10px;
+}
+
+.label-hra {
+  margin-right: 100px;
+}
+
+.label-basic {
+  margin-right: 45px;
+}
+
+.label-designation {
+  margin-right: 45px;
+}
+
+.label-month {
+  margin-right: 80px;
+}
+
+.payslip-btn {
+  margin-top: 30px;
+  background-color: rgb(57, 57, 243);
+  padding: 10px;
+  border-radius: 16px;
+  outline: none;
+  border: none;
+}
+
+.text {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
